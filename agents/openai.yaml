@@ -1,0 +1,4 @@
+interface:
+  display_name: "ELI5"
+  short_description: "Simple reports for a tired brain"
+  default_prompt: "Use $eli5 to give me a short and simple work report."
